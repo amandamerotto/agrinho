@@ -1,0 +1,16 @@
+*{
+    background-color: 	#F0FFF0;
+}
+h1{
+    text-align: center;
+    color: #00FA9A;
+}
+img{
+    display: block;
+    margin: 0 auto;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+    color:  #3bd197;
+}
